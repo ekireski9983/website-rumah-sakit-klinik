@@ -1,7 +1,7 @@
 <html>
 <head>
 <body>
-<tr><td><h2 align="center">APLIKASI PENGELOLAAN KLINIK Rezky jayadi saputra</h2></td></tr>
+<tr><td><h2 align="center">APLIKASI PENGELOLAAN KLINIK</h2></td></tr>
 	   <table border="1" width="30%" cellpadding="5" align="center">
   <form>
 	<tr bgcolor="#1E90FF">
